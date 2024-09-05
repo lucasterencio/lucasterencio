@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando APIs com java
 - 😄 Pronouns: ele/dele
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex">
   <a href="https://github.com/lucasterencio"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasterencio&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasterencio"/>
