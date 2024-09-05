@@ -1,7 +1,5 @@
 ## Opa! Sou o Lucas Terêncio
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje desenvolvo aplicações no front-end 
 - 🌱 Estudando APIs com java
 - 😄 Pronouns: ele/dele
