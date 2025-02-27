@@ -1,6 +1,6 @@
 ## Opa! Sou o Lucas Terêncio
 
-- 🔭 Hoje desenvolvo aplicações no front-end e back-end
+- 🔭 Hoje desenvolvo aplicações principalmente no back-end
 - 🌱 Estudando APIs com node
 - 😄 Pronouns: ele/dele
 
